@@ -12,7 +12,7 @@
     "reason-graphql-hooks"
   ],
   "ppx-flags": [
-    "@baransu/graphql_ppx_re/ppx6"
+    "@baransu/graphql_ppx_re/ppx"
   ],
   "sources": [
     {
